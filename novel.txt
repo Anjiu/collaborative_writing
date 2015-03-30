@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 He didn't know why they were there... but they were.
 Over the top and a little crazy about learing what is happening in Termnal world?
+=======
+He didn't know why they were there... but they were. 
+The red ones, the green ones, the yellow ones, and the blue ones. 
+>>>>>>> 2110296abf98a37548b88123700cb8394d567b1c
+Now I am going to try and commit this in response to your question?
